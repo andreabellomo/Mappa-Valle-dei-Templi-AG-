@@ -1,0 +1,33 @@
+h2
+{
+text-align : center;
+font-family : arial, sans-serif ;
+color :red;
+}
+
+h1
+{
+text-align : center;
+font-family : arial, sans-serif ;
+color : red;
+}
+
+
+
+
+h5
+{
+                           
+font-family : arial, sans-serif ;
+color : black;
+}
+
+#contenitore
+{
+margin-top: 0px  ;
+margin-left: 20px ;
+margin-right: 20px ;
+margin-bottom: 0px ;
+
+
+}
